@@ -126,5 +126,9 @@
   "Group3_A3/runs/glowtts_7f100a4d1220/expB/completed.json": [
     1050,
     1793192437000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/best_model.pth": [
+    343928043,
+    1793192471000000000
   ]
 }
