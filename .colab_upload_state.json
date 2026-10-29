@@ -134,5 +134,9 @@
   "Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/best_model_1200.pth": [
     343928043,
     1793192431000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/checkpoint_1000.pth": [
+    343928043,
+    1793192352000000000
   ]
 }
