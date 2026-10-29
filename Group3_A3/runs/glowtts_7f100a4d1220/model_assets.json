@@ -1,0 +1,17 @@
+{
+  "model_name": "tts_models/en/ljspeech/glow-tts",
+  "model_path": "/content/drive/MyDrive/Group3_A3/model_cache/tts/tts_models--en--ljspeech--glow-tts/model_file.pth",
+  "model_config_path": "/content/drive/MyDrive/Group3_A3/model_cache/tts/tts_models--en--ljspeech--glow-tts/config.json",
+  "vocoder_name": "vocoder_models/en/ljspeech/multiband-melgan",
+  "vocoder_path": "/content/drive/MyDrive/Group3_A3/model_cache/tts/vocoder_models--en--ljspeech--multiband-melgan/model_file.pth",
+  "vocoder_config_path": "/content/drive/MyDrive/Group3_A3/model_cache/tts/vocoder_models--en--ljspeech--multiband-melgan/config.json",
+  "model_sha256": "132f8c4d4dcb0307f04f6243139da5eeb170e29b69bc22167680241d8e6f97c8",
+  "model_config_sha256": "b4b3fe5f7d0c6e38e08b5f36887714f64ef00ca2c1113b9606c16cd7b9a34adc",
+  "vocoder_sha256": "56f16cee42bef70a2d75b08f9b9ea952c9ee0ccf76dd88a91d51e3ca4c11b449",
+  "vocoder_config_sha256": "3e6480bc18c0c4ef18c350046f52e706f70f31aa83d721b2c1d78d600660b71b",
+  "model_license": "MPL",
+  "vocoder_license": "MPL",
+  "sample_rate": 22050,
+  "phonemizer": "gruut",
+  "text_cleaner": "phoneme_cleaners"
+}

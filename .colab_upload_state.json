@@ -138,5 +138,1929 @@
   "Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/checkpoint_1000.pth": [
     343928043,
     1793192352000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/colab_kernel_launcher.py": [
+    1364,
+    1793191961000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/config.json": [
+    6503,
+    1793191961000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/events.out.tfevents.1793191961.c9120f1d45a3.2045.1": [
+    18349714,
+    1793191961000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/trainer_0_log.txt": [
+    16070,
+    1793191961000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expB/history.csv": [
+    1069,
+    1793192449000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expB/requested_config.json": [
+    6503,
+    1793191961000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expB/status.json": [
+    1074,
+    1793192449000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expB_audio_manifest.csv": [
+    2963,
+    1793192487000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expB_frontend_audit.json": [
+    74,
+    1793192486000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expB_timing_trials.csv": [
+    5379,
+    1793192487000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/experiment_results.csv": [
+    769,
+    1793192487000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/listening_review.csv": [
+    3824,
+    1793192488000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/loss_curves.png": [
+    92571,
+    1793192438000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/model_assets.json": [
+    1129,
+    1793191337000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/per_sentence_timing.csv": [
+    1551,
+    1793192487000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/pretrained_smoke.wav": [
+    154188,
+    1793191347000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/protocol.json": [
+    1262,
+    1793191337000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/requirements_freeze.txt": [
+    14535,
+    1793191337000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/speed_comparison.png": [
+    41408,
+    1793192487000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/submission_manifest.json": [
+    933,
+    1793192494000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/test_losses.csv": [
+    200,
+    1793192474000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/timing_protocol.json": [
+    394,
+    1793192475000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/timing_trials.csv": [
+    10684,
+    1793192487000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/training_history.csv": [
+    1820,
+    1793192438000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/training_results.json": [
+    2218,
+    1793192438000000000
+  ],
+  "Group3_A3/splits/samples_813e647cac97.csv": [
+    732617,
+    1793191337000000000
+  ],
+  "Group3_A3/splits/split_813e647cac97.json": [
+    305297,
+    1793191337000000000
+  ],
+  "Group3_A3/submission/3_A3.zip": [
+    5334764,
+    1793192494000000000
+  ],
+  "Group3_A3/wav_dataset/README": [
+    4486,
+    1519066780000000000
+  ],
+  "Group3_A3/wav_dataset/metadata.csv": [
+    2767490,
+    1499275078000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0001.wav": [
+    425830,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0002.wav": [
+    83814,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0003.wav": [
+    426342,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0004.wav": [
+    226662,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0005.wav": [
+    357734,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0006.wav": [
+    250726,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0007.wav": [
+    370022,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0008.wav": [
+    78694,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0009.wav": [
+    333158,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0010.wav": [
+    388966,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0011.wav": [
+    199014,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0012.wav": [
+    363366,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0013.wav": [
+    114022,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0014.wav": [
+    438630,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0015.wav": [
+    407398,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0016.wav": [
+    232294,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0017.wav": [
+    309606,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0018.wav": [
+    330086,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0019.wav": [
+    282982,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0020.wav": [
+    206182,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0021.wav": [
+    379750,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0022.wav": [
+    311142,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0023.wav": [
+    372582,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0024.wav": [
+    346470,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0025.wav": [
+    391014,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0026.wav": [
+    268646,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0027.wav": [
+    425318,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0028.wav": [
+    261478,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0029.wav": [
+    234854,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0030.wav": [
+    304998,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0031.wav": [
+    346470,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0032.wav": [
+    312166,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0033.wav": [
+    303462,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0034.wav": [
+    400742,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0035.wav": [
+    223078,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0036.wav": [
+    323430,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0037.wav": [
+    187750,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0038.wav": [
+    428902,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0039.wav": [
+    165734,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0040.wav": [
+    334694,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0041.wav": [
+    218470,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0042.wav": [
+    294246,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0043.wav": [
+    171878,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0044.wav": [
+    308070,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0045.wav": [
+    133478,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0046.wav": [
+    238438,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0047.wav": [
+    261478,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0048.wav": [
+    278886,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0049.wav": [
+    340326,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0050.wav": [
+    320870,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0051.wav": [
+    214374,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0052.wav": [
+    236902,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0053.wav": [
+    202086,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0054.wav": [
+    191334,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0055.wav": [
+    379750,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0056.wav": [
+    242534,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0057.wav": [
+    374118,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0058.wav": [
+    325478,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0059.wav": [
+    399718,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0060.wav": [
+    298854,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0061.wav": [
+    154470,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0062.wav": [
+    229734,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0063.wav": [
+    201574,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0064.wav": [
+    259430,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0065.wav": [
+    312166,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0066.wav": [
+    422758,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0067.wav": [
+    307558,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0068.wav": [
+    402278,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0069.wav": [
+    245606,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0070.wav": [
+    343398,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0071.wav": [
+    324966,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0072.wav": [
+    286566,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0073.wav": [
+    312678,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0074.wav": [
+    287078,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0075.wav": [
+    300390,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0076.wav": [
+    395622,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0077.wav": [
+    413030,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0078.wav": [
+    86374,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0079.wav": [
+    194918,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0080.wav": [
+    237926,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0081.wav": [
+    200550,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0082.wav": [
+    304486,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0083.wav": [
+    220518,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0084.wav": [
+    185702,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0085.wav": [
+    366950,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0086.wav": [
+    298854,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0087.wav": [
+    363878,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0088.wav": [
+    385894,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0089.wav": [
+    382310,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0090.wav": [
+    144230,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0091.wav": [
+    293734,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0092.wav": [
+    352102,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0093.wav": [
+    314214,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0094.wav": [
+    189798,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0095.wav": [
+    185190,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0096.wav": [
+    426342,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0097.wav": [
+    363366,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0098.wav": [
+    205158,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0099.wav": [
+    354150,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0100.wav": [
+    378726,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0101.wav": [
+    327526,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0102.wav": [
+    227174,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0103.wav": [
+    236902,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0104.wav": [
+    105318,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0105.wav": [
+    376678,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0106.wav": [
+    375142,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0107.wav": [
+    162150,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0108.wav": [
+    255334,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0109.wav": [
+    401254,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0110.wav": [
+    258918,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0111.wav": [
+    306534,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0112.wav": [
+    178022,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0113.wav": [
+    239462,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0114.wav": [
+    187750,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0115.wav": [
+    366438,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0116.wav": [
+    396646,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0117.wav": [
+    293222,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0118.wav": [
+    231270,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0119.wav": [
+    257894,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0120.wav": [
+    307558,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0121.wav": [
+    281446,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0122.wav": [
+    288102,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0123.wav": [
+    162662,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0124.wav": [
+    370534,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0125.wav": [
+    118118,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0126.wav": [
+    141670,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0127.wav": [
+    427366,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0128.wav": [
+    440166,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0129.wav": [
+    170854,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0130.wav": [
+    266086,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0131.wav": [
+    286566,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0132.wav": [
+    359782,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0133.wav": [
+    387430,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0134.wav": [
+    244070,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0135.wav": [
+    189798,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0136.wav": [
+    253798,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0137.wav": [
+    207718,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0138.wav": [
+    278374,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0139.wav": [
+    231782,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0140.wav": [
+    274278,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0141.wav": [
+    162662,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0142.wav": [
+    384870,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0143.wav": [
+    271718,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0144.wav": [
+    188262,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0145.wav": [
+    316262,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0146.wav": [
+    210790,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0147.wav": [
+    264038,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0148.wav": [
+    304998,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0149.wav": [
+    270182,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0150.wav": [
+    379238,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0151.wav": [
+    199014,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0152.wav": [
+    413542,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0153.wav": [
+    285542,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0154.wav": [
+    389990,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0155.wav": [
+    187750,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0156.wav": [
+    227174,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0157.wav": [
+    195942,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0158.wav": [
+    355174,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0159.wav": [
+    371046,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0160.wav": [
+    152422,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0161.wav": [
+    183142,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0162.wav": [
+    413030,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0163.wav": [
+    281958,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0164.wav": [
+    338790,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0165.wav": [
+    118118,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0166.wav": [
+    371046,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0167.wav": [
+    222566,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0168.wav": [
+    328038,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0169.wav": [
+    439654,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0170.wav": [
+    117094,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0171.wav": [
+    429414,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0172.wav": [
+    337254,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0173.wav": [
+    401766,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0174.wav": [
+    109926,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0175.wav": [
+    185190,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0176.wav": [
+    256358,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0177.wav": [
+    204134,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0178.wav": [
+    313702,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0179.wav": [
+    121702,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0180.wav": [
+    315750,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0181.wav": [
+    203622,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0182.wav": [
+    270694,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0183.wav": [
+    379238,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0184.wav": [
+    361830,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0185.wav": [
+    136550,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ001-0186.wav": [
+    335206,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0001.wav": [
+    360806,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0002.wav": [
+    153446,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0003.wav": [
+    442214,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0004.wav": [
+    212838,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0005.wav": [
+    129382,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0006.wav": [
+    361830,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0007.wav": [
+    161638,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0008.wav": [
+    349542,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0009.wav": [
+    137574,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0010.wav": [
+    344422,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0011.wav": [
+    423270,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0012.wav": [
+    88934,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0013.wav": [
+    442726,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0014.wav": [
+    437606,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0015.wav": [
+    266086,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0016.wav": [
+    386918,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0017.wav": [
+    338278,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0018.wav": [
+    318310,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0019.wav": [
+    151910,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0020.wav": [
+    67942,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0021.wav": [
+    400742,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0022.wav": [
+    308582,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0023.wav": [
+    152422,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0024.wav": [
+    385382,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0025.wav": [
+    352614,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0026.wav": [
+    192358,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0027.wav": [
+    420710,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0028.wav": [
+    388454,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0029.wav": [
+    159078,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0030.wav": [
+    403302,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0031.wav": [
+    436070,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0032.wav": [
+    175974,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0033.wav": [
+    333158,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0034.wav": [
+    392550,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0035.wav": [
+    70502,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0036.wav": [
+    265062,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0037.wav": [
+    201574,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0038.wav": [
+    269670,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0039.wav": [
+    224102,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0040.wav": [
+    254310,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0041.wav": [
+    377190,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0042.wav": [
+    314726,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0043.wav": [
+    339302,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0044.wav": [
+    112486,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0045.wav": [
+    150374,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0046.wav": [
+    385894,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0047.wav": [
+    235878,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0048.wav": [
+    308582,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0049.wav": [
+    227174,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0050.wav": [
+    293734,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0051.wav": [
+    260966,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0052.wav": [
+    234342,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0053.wav": [
+    207206,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0054.wav": [
+    340326,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0055.wav": [
+    384870,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0056.wav": [
+    420710,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0057.wav": [
+    226150,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0058.wav": [
+    335718,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0059.wav": [
+    365414,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0060.wav": [
+    396134,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0061.wav": [
+    253286,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0062.wav": [
+    424806,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0063.wav": [
+    394598,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0064.wav": [
+    371558,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0065.wav": [
+    159078,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0066.wav": [
+    428390,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0067.wav": [
+    342374,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0068.wav": [
+    438118,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0069.wav": [
+    124774,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0070.wav": [
+    178534,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0071.wav": [
+    317286,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0072.wav": [
+    380262,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0073.wav": [
+    214374,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0074.wav": [
+    430438,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0075.wav": [
+    205158,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0076.wav": [
+    140134,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0077.wav": [
+    304486,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0078.wav": [
+    199526,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0079.wav": [
+    405350,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0080.wav": [
+    221030,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0081.wav": [
+    230758,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0082.wav": [
+    416614,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0083.wav": [
+    146790,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0084.wav": [
+    325990,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0085.wav": [
+    400230,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0086.wav": [
+    424806,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0087.wav": [
+    267110,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0088.wav": [
+    198502,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0089.wav": [
+    282982,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0090.wav": [
+    204646,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0091.wav": [
+    269158,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0092.wav": [
+    213862,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0093.wav": [
+    211302,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0094.wav": [
+    245606,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0095.wav": [
+    417126,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0096.wav": [
+    193382,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0097.wav": [
+    393574,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0098.wav": [
+    329062,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0099.wav": [
+    365414,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0100.wav": [
+    241510,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0101.wav": [
+    209766,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0102.wav": [
+    261990,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0103.wav": [
+    351078,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0104.wav": [
+    364902,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0105.wav": [
+    269670,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0106.wav": [
+    276326,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0107.wav": [
+    430950,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0108.wav": [
+    359270,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0109.wav": [
+    161126,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0110.wav": [
+    417126,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0111.wav": [
+    192870,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0112.wav": [
+    345958,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0113.wav": [
+    276326,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0114.wav": [
+    173926,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0116.wav": [
+    186726,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0117.wav": [
+    220006,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0118.wav": [
+    214374,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0119.wav": [
+    166758,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0120.wav": [
+    381798,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0121.wav": [
+    352614,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0122.wav": [
+    399206,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0123.wav": [
+    246630,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0124.wav": [
+    236390,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0125.wav": [
+    159590,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0126.wav": [
+    363366,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0127.wav": [
+    314726,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0128.wav": [
+    268646,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0129.wav": [
+    268646,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0130.wav": [
+    337766,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0131.wav": [
+    124774,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0132.wav": [
+    407398,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0133.wav": [
+    420710,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0134.wav": [
+    275814,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0135.wav": [
+    388454,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0136.wav": [
+    126310,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0137.wav": [
+    441190,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0138.wav": [
+    360294,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0139.wav": [
+    127334,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0140.wav": [
+    383334,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0141.wav": [
+    188774,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0142.wav": [
+    158566,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0143.wav": [
+    216934,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0144.wav": [
+    411494,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0145.wav": [
+    338790,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0146.wav": [
+    298342,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0147.wav": [
+    365414,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0148.wav": [
+    258406,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0149.wav": [
+    349030,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0150.wav": [
+    169318,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0151.wav": [
+    158054,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0152.wav": [
+    368998,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0153.wav": [
+    120678,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0154.wav": [
+    397158,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0155.wav": [
+    143718,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0156.wav": [
+    397670,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0157.wav": [
+    345958,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0158.wav": [
+    410470,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0159.wav": [
+    208230,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0160.wav": [
+    312678,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0161.wav": [
+    287590,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0162.wav": [
+    243046,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0163.wav": [
+    207718,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0164.wav": [
+    248166,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0165.wav": [
+    276326,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0166.wav": [
+    188774,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0167.wav": [
+    318822,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0168.wav": [
+    418150,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0169.wav": [
+    338278,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0170.wav": [
+    385894,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0171.wav": [
+    272230,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0172.wav": [
+    230246,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0173.wav": [
+    217446,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0174.wav": [
+    225638,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0175.wav": [
+    318822,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0176.wav": [
+    327014,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0177.wav": [
+    379750,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0178.wav": [
+    221542,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0179.wav": [
+    235366,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0180.wav": [
+    192358,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0181.wav": [
+    380774,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0182.wav": [
+    193894,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0183.wav": [
+    238438,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0184.wav": [
+    252774,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0185.wav": [
+    403814,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0186.wav": [
+    370534,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0187.wav": [
+    235878,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0188.wav": [
+    346470,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0189.wav": [
+    365926,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0190.wav": [
+    400230,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0191.wav": [
+    139110,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0192.wav": [
+    360294,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0193.wav": [
+    177510,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0194.wav": [
+    320358,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0195.wav": [
+    341862,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0196.wav": [
+    437094,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0197.wav": [
+    382822,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0198.wav": [
+    110950,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0199.wav": [
+    372070,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0200.wav": [
+    209766,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0201.wav": [
+    373094,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0202.wav": [
+    173414,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0203.wav": [
+    258918,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0204.wav": [
+    191334,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0205.wav": [
+    274278,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0206.wav": [
+    314214,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0207.wav": [
+    406886,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0208.wav": [
+    98150,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0209.wav": [
+    437606,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0210.wav": [
+    368998,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0211.wav": [
+    394598,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0212.wav": [
+    210790,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0213.wav": [
+    147814,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0214.wav": [
+    352102,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0215.wav": [
+    301414,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0216.wav": [
+    126822,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0217.wav": [
+    331110,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0218.wav": [
+    398182,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0219.wav": [
+    370022,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0220.wav": [
+    356710,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0221.wav": [
+    406374,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0222.wav": [
+    346470,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0223.wav": [
+    172902,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0224.wav": [
+    353638,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0225.wav": [
+    348006,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0226.wav": [
+    267622,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0227.wav": [
+    344422,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0228.wav": [
+    273766,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0229.wav": [
+    365414,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0230.wav": [
+    388454,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0231.wav": [
+    257382,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0232.wav": [
+    241510,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0233.wav": [
+    301926,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0234.wav": [
+    79718,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0235.wav": [
+    395622,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0236.wav": [
+    123238,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0237.wav": [
+    185702,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0238.wav": [
+    255846,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0239.wav": [
+    173926,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0240.wav": [
+    352102,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0241.wav": [
+    277350,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0242.wav": [
+    276838,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0243.wav": [
+    440166,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0244.wav": [
+    237926,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0245.wav": [
+    213350,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0246.wav": [
+    236390,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0247.wav": [
+    224102,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0248.wav": [
+    259430,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0249.wav": [
+    248678,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0250.wav": [
+    121702,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0251.wav": [
+    413030,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0252.wav": [
+    199526,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0253.wav": [
+    270182,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0254.wav": [
+    186726,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0255.wav": [
+    366438,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0256.wav": [
+    396646,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0257.wav": [
+    387430,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0258.wav": [
+    360294,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0259.wav": [
+    399206,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0260.wav": [
+    218982,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0261.wav": [
+    195942,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0262.wav": [
+    307558,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0263.wav": [
+    269158,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0264.wav": [
+    310630,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0265.wav": [
+    317798,
+    1499188104000000000
+  ],
+  "Group3_A3/wav_dataset/wavs/LJ002-0266.wav": [
+    302438,
+    1499188104000000000
   ]
 }

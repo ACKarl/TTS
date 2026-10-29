@@ -1,0 +1,30 @@
+{
+  "zip_path": "/content/drive/MyDrive/Group3_A3/submission/3_A3.zip",
+  "members": [
+    "3_A3.ipynb",
+    "wav_examples/expA_01.wav",
+    "wav_examples/expA_02.wav",
+    "wav_examples/expA_03.wav",
+    "wav_examples/expA_04.wav",
+    "wav_examples/expA_05.wav",
+    "wav_examples/expA_06.wav",
+    "wav_examples/expA_07.wav",
+    "wav_examples/expA_08.wav",
+    "wav_examples/expA_09.wav",
+    "wav_examples/expA_10.wav",
+    "wav_examples/expB_01.wav",
+    "wav_examples/expB_02.wav",
+    "wav_examples/expB_03.wav",
+    "wav_examples/expB_04.wav",
+    "wav_examples/expB_05.wav",
+    "wav_examples/expB_06.wav",
+    "wav_examples/expB_07.wav",
+    "wav_examples/expB_08.wav",
+    "wav_examples/expB_09.wav",
+    "wav_examples/expB_10.wav",
+    "wav_examples/expA_custom.wav",
+    "wav_examples/expB_custom.wav"
+  ],
+  "zip_sha256": "ae947561dac12cce396561f12d46c1cfffe0c8c8cfe2cdba58ed123c4f6e96ab",
+  "run_id": "7f100a4d1220"
+}

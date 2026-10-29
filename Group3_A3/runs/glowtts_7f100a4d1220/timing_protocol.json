@@ -1,0 +1,20 @@
+{
+  "warmup_runs": 2,
+  "repeats_per_sentence": 3,
+  "sentences_per_experiment": 10,
+  "device": "cuda",
+  "gpu": "Tesla T4",
+  "includes": [
+    "text_frontend",
+    "acoustic_model",
+    "vocoder"
+  ],
+  "excludes": [
+    "model_loading",
+    "warmup",
+    "file_writing"
+  ],
+  "inference_noise_scale": 0.0,
+  "length_scale": 1.0,
+  "rtf_definition": "latency_sec / generated_duration_sec"
+}
