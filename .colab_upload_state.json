@@ -14,5 +14,61 @@
   "Group3_A3/model_cache/tts/tts_models--en--ljspeech--glow-tts/model_file.pth": [
     343840040,
     1793190673000000000
+  ],
+  "Group3_A3/model_cache/tts/vocoder_models--en--ljspeech--multiband-melgan/config.json": [
+    5053,
+    1793190682000000000
+  ],
+  "Group3_A3/model_cache/tts/vocoder_models--en--ljspeech--multiband-melgan/model_file.pth": [
+    82831385,
+    1793190682000000000
+  ],
+  "Group3_A3/model_cache/tts/vocoder_models--en--ljspeech--multiband-melgan/scale_stats.npy": [
+    10491,
+    1793190682000000000
+  ],
+  "Group3_A3/results/data_inventory.json": [
+    243,
+    1793190687000000000
+  ],
+  "Group3_A3/results/environment.json": [
+    460,
+    1793190685000000000
+  ],
+  "Group3_A3/results/latest_experiment_results.csv": [
+    769,
+    1793192487000000000
+  ],
+  "Group3_A3/results/model_assets.json": [
+    1129,
+    1793190685000000000
+  ],
+  "Group3_A3/results/rejected_813e647cac97.csv": [
+    13,
+    1793191337000000000
+  ],
+  "Group3_A3/results/requirements_freeze.txt": [
+    14535,
+    1793190685000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/audio_manifest.csv": [
+    5830,
+    1793192487000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/benchmark_sentences.csv": [
+    1316,
+    1793192475000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/custom_audio_manifest.csv": [
+    610,
+    1793192493000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/environment.json": [
+    460,
+    1793191337000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expA/completed.json": [
+    1062,
+    1793191956000000000
   ]
 }

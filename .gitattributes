@@ -1,1 +1,2 @@
 Group3_A3/model_cache/tts/tts_models--en--ljspeech--glow-tts/model_file.pth filter=lfs diff=lfs merge=lfs -text
+Group3_A3/model_cache/tts/vocoder_models--en--ljspeech--multiband-melgan/model_file.pth filter=lfs diff=lfs merge=lfs -text
