@@ -2,3 +2,4 @@ Group3_A3/model_cache/tts/tts_models--en--ljspeech--glow-tts/model_file.pth filt
 Group3_A3/model_cache/tts/vocoder_models--en--ljspeech--multiband-melgan/model_file.pth filter=lfs diff=lfs merge=lfs -text
 Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/best_model.pth filter=lfs diff=lfs merge=lfs -text
 Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/best_model_1200.pth filter=lfs diff=lfs merge=lfs -text
+Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/checkpoint_1000.pth filter=lfs diff=lfs merge=lfs -text
