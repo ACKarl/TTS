@@ -10,5 +10,9 @@
   "Group3_A3/model_cache/tts/tts_models--en--ljspeech--glow-tts/config.json": [
     9284,
     1793190675000000000
+  ],
+  "Group3_A3/model_cache/tts/tts_models--en--ljspeech--glow-tts/model_file.pth": [
+    343840040,
+    1793190673000000000
   ]
 }
