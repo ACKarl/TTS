@@ -1,0 +1,23 @@
+{
+  "state": "completed",
+  "experiment": "expA",
+  "lr": 1e-05,
+  "epochs": 3,
+  "batch_size": 4,
+  "seed": 42,
+  "protocol_sha256": "7f100a4d1220e6c7f040cd7b85fbcd3ce97240ab920c2a218cf81f97ee1a2ef0",
+  "initial_checkpoint_sha256": "132f8c4d4dcb0307f04f6243139da5eeb170e29b69bc22167680241d8e6f97c8",
+  "split_sha256": "8322ee0bd534e38eba770f3d7544d2970eee009b692c9fbf6869a43783f2521b",
+  "checkpoint_path": "/content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/best_model.pth",
+  "config_path": "/content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/config.json",
+  "checkpoint_sha256": "f3835cbb757afaa1cad1a1da6fbb89ffea0d9c908bd67a3318e53fc357630d78",
+  "best_validation_loss": -0.7914557797568185,
+  "training_seconds": 605.1295038809999,
+  "peak_gpu_memory_gb": 0.6760191917419434,
+  "training_device": "cuda",
+  "training_gpu": "Tesla T4",
+  "discarded_phoneme_symbols": [
+    "͡"
+  ],
+  "history_path": "/content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/history.csv"
+}

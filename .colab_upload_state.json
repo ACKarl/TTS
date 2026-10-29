@@ -82,5 +82,49 @@
   "Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/checkpoint_1000.pth": [
     343928043,
     1793191871000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/colab_kernel_launcher.py": [
+    1364,
+    1793191362000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/config.json": [
+    6503,
+    1793191351000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/events.out.tfevents.1793191358.c9120f1d45a3.2045.0": [
+    18302603,
+    1793191965000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/trainer_0_log.txt": [
+    32180,
+    1793191351000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expA/history.csv": [
+    1076,
+    1793191982000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expA/requested_config.json": [
+    6503,
+    1793191350000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expA/status.json": [
+    1086,
+    1793191982000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expA_audio_manifest.csv": [
+    2965,
+    1793192481000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expA_frontend_audit.json": [
+    74,
+    1793192480000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expA_timing_trials.csv": [
+    5373,
+    1793192481000000000
+  ],
+  "Group3_A3/runs/glowtts_7f100a4d1220/expB/completed.json": [
+    1050,
+    1793192437000000000
   ]
 }

@@ -1,0 +1,676 @@
+ > Training Environment:
+ | > Backend: Torch
+ | > Mixed precision: True
+ | > Precision: fp16
+ | > Current device: 0
+ | > Num. of GPUs: 1
+ | > Num. of CPUs: 2
+ | > Num. of Torch Threads: 1
+ | > Torch seed: 42
+ | > Torch CUDNN: True
+ | > Torch CUDNN deterministic: True
+ | > Torch CUDNN benchmark: False
+ | > Torch TF32 MatMul: False
+ > Start Tensorboard: tensorboard --logdir=/content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000
+
+ > Model has 28609873 parameters
+
+[4m[1m > EPOCH: 0/2[0m
+ --> /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000
+
+[1m > TRAINING (2026-10-28 12:44:09) [0m
+
+[1m   --> TIME: 2026-10-28 12:44:27 -- STEP: 0/399 -- GLOBAL_STEP: 0[0m
+     | > current_lr: 1e-05  (1e-05)
+     | > loss: -0.7273572683334351  (-0.7273572683334351)
+     | > log_mle: -0.8991885185241699  (-0.8991885185241699)
+     | > loss_dur: 0.17183123528957367  (0.17183123528957367)
+     | > amp_scaler: 65536.0  (65536.0)
+     | > grad_norm: tensor(0.7061, device='cuda:0')  (tensor(0.7061, device='cuda:0'))
+     | > step_time: 2.4527  (2.452735185623169)
+     | > loader_time: 15.2921  (15.292092561721802)
+
+
+[1m   --> TIME: 2026-10-28 12:44:53 -- STEP: 50/399 -- GLOBAL_STEP: 50[0m
+     | > current_lr: 1e-05  (1.0000000000000011e-05)
+     | > loss: -0.6614111661911011  (-0.7197054088115691)
+     | > log_mle: -0.8692126274108887  (-0.9005453658103942)
+     | > loss_dur: 0.2078014761209488  (0.1808399564027786)
+     | > amp_scaler: 16384.0  (18677.76)
+     | > grad_norm: tensor(0.6358, device='cuda:0')  (tensor(0.6356, device='cuda:0'))
+     | > step_time: 0.2781  (0.33416406631469725)
+     | > loader_time: 0.0667  (0.05468491077423096)
+
+
+[1m   --> TIME: 2026-10-28 12:45:12 -- STEP: 100/399 -- GLOBAL_STEP: 100[0m
+     | > current_lr: 1e-05  (1.0000000000000018e-05)
+     | > loss: -0.7345852255821228  (-0.7247986608743667)
+     | > log_mle: -0.9094408750534058  (-0.9020084607601165)
+     | > loss_dur: 0.17485563457012177  (0.17720980077981946)
+     | > amp_scaler: 16384.0  (17530.88)
+     | > grad_norm: tensor(0.6694, device='cuda:0')  (tensor(0.6413, device='cuda:0'))
+     | > step_time: 0.8105  (0.3216551327705382)
+     | > loader_time: 0.054  (0.05634458780288696)
+
+
+[1m   --> TIME: 2026-10-28 12:45:30 -- STEP: 150/399 -- GLOBAL_STEP: 150[0m
+     | > current_lr: 1e-05  (1.000000000000002e-05)
+     | > loss: -0.7319087982177734  (-0.7253437042236328)
+     | > log_mle: -0.8872270584106445  (-0.9027481929461161)
+     | > loss_dur: 0.1553182303905487  (0.17740448902050654)
+     | > amp_scaler: 16384.0  (17148.586666666677)
+     | > grad_norm: tensor(0.6751, device='cuda:0')  (tensor(0.6514, device='cuda:0'))
+     | > step_time: 0.2313  (0.3136455710728962)
+     | > loader_time: 0.0543  (0.05568977991739909)
+
+
+[1m   --> TIME: 2026-10-28 12:45:46 -- STEP: 200/399 -- GLOBAL_STEP: 200[0m
+     | > current_lr: 1e-05  (1.000000000000002e-05)
+     | > loss: -0.7309587001800537  (-0.7248506423830983)
+     | > log_mle: -0.8886308670043945  (-0.9031701159477233)
+     | > loss_dur: 0.1576721966266632  (0.17831947367638348)
+     | > amp_scaler: 16384.0  (16957.440000000013)
+     | > grad_norm: tensor(0.6483, device='cuda:0')  (tensor(0.6513, device='cuda:0'))
+     | > step_time: 0.2158  (0.30139904499053943)
+     | > loader_time: 0.0505  (0.05555620908737183)
+
+
+ > CHECKPOINT : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/checkpoint_200.pth
+
+[1m   --> TIME: 2026-10-28 12:46:10 -- STEP: 250/399 -- GLOBAL_STEP: 250[0m
+     | > current_lr: 1e-05  (1.0000000000000021e-05)
+     | > loss: -0.7161747813224792  (-0.7270598180294034)
+     | > log_mle: -0.9097194671630859  (-0.903569227218628)
+     | > loss_dur: 0.19354470074176788  (0.17650940957665442)
+     | > amp_scaler: 16384.0  (16842.752000000015)
+     | > grad_norm: tensor(0.7327, device='cuda:0')  (tensor(0.6530, device='cuda:0'))
+     | > step_time: 0.2187  (0.2982673139572143)
+     | > loader_time: 0.0563  (0.0562173900604248)
+
+
+[1m   --> TIME: 2026-10-28 12:46:25 -- STEP: 300/399 -- GLOBAL_STEP: 300[0m
+     | > current_lr: 1e-05  (1.0000000000000021e-05)
+     | > loss: -0.758385419845581  (-0.7280853217840195)
+     | > log_mle: -0.8983722925186157  (-0.9035946055253347)
+     | > loss_dur: 0.13998687267303467  (0.17550928396483265)
+     | > amp_scaler: 16384.0  (16766.293333333342)
+     | > grad_norm: tensor(0.6055, device='cuda:0')  (tensor(0.6500, device='cuda:0'))
+     | > step_time: 0.2221  (0.2889487600326538)
+     | > loader_time: 0.0592  (0.056622249285380045)
+
+
+[1m   --> TIME: 2026-10-28 12:46:40 -- STEP: 350/399 -- GLOBAL_STEP: 350[0m
+     | > current_lr: 1e-05  (1.0000000000000021e-05)
+     | > loss: -0.7017902731895447  (-0.726855792488371)
+     | > log_mle: -0.9153698682785034  (-0.9027203549657549)
+     | > loss_dur: 0.21357958018779755  (0.1758645616471768)
+     | > amp_scaler: 16384.0  (16711.68000000002)
+     | > grad_norm: tensor(0.6156, device='cuda:0')  (tensor(0.6500, device='cuda:0'))
+     | > step_time: 0.2207  (0.283059437615531)
+     | > loader_time: 0.0597  (0.056305586951119556)
+
+
+[1m > EVALUATION [0m
+
+
+  [1m--> EVAL PERFORMANCE[0m
+     | > avg_loader_time: 0.18491472516741073 [0m(+0.0)
+     | > avg_loss: -0.7863321340813929 [0m(+0.0)
+     | > avg_log_mle: -0.9349463375247254 [0m(+0.0)
+     | > avg_loss_dur: 0.14861420055433203 [0m(+0.0)
+
+ > BEST MODEL : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/best_model_400.pth
+
+[4m[1m > EPOCH: 1/2[0m
+ --> /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000
+
+[1m > TRAINING (2026-10-28 12:47:21) [0m
+
+[1m   --> TIME: 2026-10-28 12:47:22 -- STEP: 0/399 -- GLOBAL_STEP: 400[0m
+     | > current_lr: 1e-05  (1e-05)
+     | > loss: -0.7515605092048645  (-0.7515605092048645)
+     | > log_mle: -0.9000953435897827  (-0.9000953435897827)
+     | > loss_dur: 0.14853481948375702  (0.14853481948375702)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.5332, device='cuda:0')  (tensor(0.5332, device='cuda:0'))
+     | > step_time: 0.3066  (0.3066389560699463)
+     | > loader_time: 0.0548  (0.05478549003601074)
+
+
+ > CHECKPOINT : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/checkpoint_400.pth
+
+[1m   --> TIME: 2026-10-28 12:47:47 -- STEP: 50/399 -- GLOBAL_STEP: 450[0m
+     | > current_lr: 1e-05  (1.0000000000000011e-05)
+     | > loss: -0.7128132581710815  (-0.735240341424942)
+     | > log_mle: -0.8984136581420898  (-0.9080660223960877)
+     | > loss_dur: 0.1856003701686859  (0.17282568126916886)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.6141, device='cuda:0')  (tensor(0.6646, device='cuda:0'))
+     | > step_time: 0.2443  (0.2748503589630127)
+     | > loader_time: 0.0646  (0.0659697723388672)
+
+
+[1m   --> TIME: 2026-10-28 12:48:01 -- STEP: 100/399 -- GLOBAL_STEP: 500[0m
+     | > current_lr: 1e-05  (1.0000000000000018e-05)
+     | > loss: -0.7298007011413574  (-0.7349414837360377)
+     | > log_mle: -0.915206789970398  (-0.90664018034935)
+     | > loss_dur: 0.18540607392787933  (0.17169869646430017)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.7187, device='cuda:0')  (tensor(0.6589, device='cuda:0'))
+     | > step_time: 0.2308  (0.2519247674942017)
+     | > loader_time: 0.046  (0.06101529359817506)
+
+
+[1m   --> TIME: 2026-10-28 12:48:16 -- STEP: 150/399 -- GLOBAL_STEP: 550[0m
+     | > current_lr: 1e-05  (1.000000000000002e-05)
+     | > loss: -0.7594982385635376  (-0.7353409934043881)
+     | > log_mle: -0.9037767648696899  (-0.9057364368438721)
+     | > loss_dur: 0.14427851140499115  (0.17039544497927037)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.7105, device='cuda:0')  (tensor(0.6581, device='cuda:0'))
+     | > step_time: 0.2124  (0.2481383260091146)
+     | > loader_time: 0.0529  (0.058816905021667504)
+
+
+[1m   --> TIME: 2026-10-28 12:48:30 -- STEP: 200/399 -- GLOBAL_STEP: 600[0m
+     | > current_lr: 1e-05  (1.000000000000002e-05)
+     | > loss: -0.7009534239768982  (-0.7351881042122838)
+     | > log_mle: -0.8771986961364746  (-0.9052753221988677)
+     | > loss_dur: 0.17624527215957642  (0.17008721847087144)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.7438, device='cuda:0')  (tensor(0.6517, device='cuda:0'))
+     | > step_time: 0.2516  (0.24216578841209413)
+     | > loader_time: 0.0478  (0.05822709918022158)
+
+
+ > CHECKPOINT : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/checkpoint_600.pth
+
+[1m   --> TIME: 2026-10-28 12:48:53 -- STEP: 250/399 -- GLOBAL_STEP: 650[0m
+     | > current_lr: 1e-05  (1.0000000000000021e-05)
+     | > loss: -0.7100341320037842  (-0.735665707349777)
+     | > log_mle: -0.8994115591049194  (-0.9053047633171082)
+     | > loss_dur: 0.18937744200229645  (0.16963905760645867)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.6114, device='cuda:0')  (tensor(0.6458, device='cuda:0'))
+     | > step_time: 0.268  (0.24704380035400383)
+     | > loader_time: 0.055  (0.05891469669342043)
+
+
+[1m   --> TIME: 2026-10-28 12:49:08 -- STEP: 300/399 -- GLOBAL_STEP: 700[0m
+     | > current_lr: 1e-05  (1.0000000000000021e-05)
+     | > loss: -0.7168817520141602  (-0.7342039805650714)
+     | > log_mle: -0.8999373912811279  (-0.9049827627340953)
+     | > loss_dur: 0.18305563926696777  (0.17077878378331654)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.5614, device='cuda:0')  (tensor(0.6466, device='cuda:0'))
+     | > step_time: 0.2124  (0.2454966441790262)
+     | > loader_time: 0.0663  (0.05847096920013429)
+
+
+[1m   --> TIME: 2026-10-28 12:49:23 -- STEP: 350/399 -- GLOBAL_STEP: 750[0m
+     | > current_lr: 1e-05  (1.0000000000000021e-05)
+     | > loss: -0.7659019827842712  (-0.7348807556288585)
+     | > log_mle: -0.9170327186584473  (-0.9051665707996913)
+     | > loss_dur: 0.15113072097301483  (0.17028581646936275)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.6426, device='cuda:0')  (tensor(0.6491, device='cuda:0'))
+     | > step_time: 0.2157  (0.24456521647317062)
+     | > loader_time: 0.0599  (0.05795295987810408)
+
+
+[1m > EVALUATION [0m
+
+
+  [1m--> EVAL PERFORMANCE[0m
+     | > avg_loader_time:[92m 0.044843785616816303 [0m(-0.1400709395505944)
+     | > avg_loss:[92m -0.7896827483663752 [0m(-0.0033506142849822895)
+     | > avg_log_mle:[91m -0.934313102644317 [0m(+0.0006332348804084509)
+     | > avg_loss_dur:[92m 0.14463035412588895 [0m(-0.003983846428443072)
+
+ > BEST MODEL : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/best_model_800.pth
+
+[4m[1m > EPOCH: 2/2[0m
+ --> /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000
+
+[1m > TRAINING (2026-10-28 12:49:55) [0m
+
+[1m   --> TIME: 2026-10-28 12:49:56 -- STEP: 0/399 -- GLOBAL_STEP: 800[0m
+     | > current_lr: 1e-05  (1e-05)
+     | > loss: -0.7309572100639343  (-0.7309572100639343)
+     | > log_mle: -0.8998255729675293  (-0.8998255729675293)
+     | > loss_dur: 0.16886836290359497  (0.16886836290359497)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.7829, device='cuda:0')  (tensor(0.7829, device='cuda:0'))
+     | > step_time: 0.2648  (0.26475071907043457)
+     | > loader_time: 0.0542  (0.05422186851501465)
+
+
+ > CHECKPOINT : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/checkpoint_800.pth
+
+[1m   --> TIME: 2026-10-28 12:50:23 -- STEP: 50/399 -- GLOBAL_STEP: 850[0m
+     | > current_lr: 1e-05  (1.0000000000000011e-05)
+     | > loss: -0.6951026320457458  (-0.7393212461471558)
+     | > log_mle: -0.9081532955169678  (-0.910938229560852)
+     | > loss_dur: 0.21305064857006073  (0.17161698654294016)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.7492, device='cuda:0')  (tensor(0.6645, device='cuda:0'))
+     | > step_time: 0.3434  (0.28267425537109375)
+     | > loader_time: 0.1571  (0.07707368373870849)
+
+
+[1m   --> TIME: 2026-10-28 12:50:42 -- STEP: 100/399 -- GLOBAL_STEP: 900[0m
+     | > current_lr: 1e-05  (1.0000000000000018e-05)
+     | > loss: -0.6858161091804504  (-0.7345700532197952)
+     | > log_mle: -0.8684512376785278  (-0.9065723323822021)
+     | > loss_dur: 0.1826351135969162  (0.172002281472087)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.4830, device='cuda:0')  (tensor(0.6496, device='cuda:0'))
+     | > step_time: 0.2269  (0.28352535963058473)
+     | > loader_time: 0.0664  (0.0793777084350586)
+
+
+[1m   --> TIME: 2026-10-28 12:50:56 -- STEP: 150/399 -- GLOBAL_STEP: 950[0m
+     | > current_lr: 1e-05  (1.000000000000002e-05)
+     | > loss: -0.7473083734512329  (-0.7342187253634135)
+     | > log_mle: -0.8939746618270874  (-0.9057241408030192)
+     | > loss_dur: 0.1466662734746933  (0.17150541697939242)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.6555, device='cuda:0')  (tensor(0.6422, device='cuda:0'))
+     | > step_time: 0.2326  (0.26576360225677487)
+     | > loader_time: 0.0649  (0.07214914480845133)
+
+
+[1m   --> TIME: 2026-10-28 12:51:11 -- STEP: 200/399 -- GLOBAL_STEP: 1000[0m
+     | > current_lr: 1e-05  (1.000000000000002e-05)
+     | > loss: -0.7361195087432861  (-0.7355968227982522)
+     | > log_mle: -0.9081205129623413  (-0.9061475425958634)
+     | > loss_dur: 0.17200100421905518  (0.17055072139948618)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.5879, device='cuda:0')  (tensor(0.6484, device='cuda:0'))
+     | > step_time: 0.2353  (0.25578484654426564)
+     | > loader_time: 0.0561  (0.06840303778648378)
+
+
+ > CHECKPOINT : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/checkpoint_1000.pth
+
+[1m   --> TIME: 2026-10-28 12:51:34 -- STEP: 250/399 -- GLOBAL_STEP: 1050[0m
+     | > current_lr: 1e-05  (1.0000000000000021e-05)
+     | > loss: -0.7453757524490356  (-0.735274305343628)
+     | > log_mle: -0.91031813621521  (-0.9063272871971131)
+     | > loss_dur: 0.1649423986673355  (0.17105298408865938)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.5812, device='cuda:0')  (tensor(0.6496, device='cuda:0'))
+     | > step_time: 0.2333  (0.25773328781127913)
+     | > loader_time: 0.0611  (0.06727895832061766)
+
+
+[1m   --> TIME: 2026-10-28 12:51:48 -- STEP: 300/399 -- GLOBAL_STEP: 1100[0m
+     | > current_lr: 1e-05  (1.0000000000000021e-05)
+     | > loss: -0.7432736158370972  (-0.737095869779587)
+     | > log_mle: -0.9171717166900635  (-0.9068515435854594)
+     | > loss_dur: 0.17389807105064392  (0.1697556756933531)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.5646, device='cuda:0')  (tensor(0.6529, device='cuda:0'))
+     | > step_time: 0.2326  (0.25320952415466297)
+     | > loader_time: 0.0672  (0.06547125498453775)
+
+
+[1m   --> TIME: 2026-10-28 12:52:03 -- STEP: 350/399 -- GLOBAL_STEP: 1150[0m
+     | > current_lr: 1e-05  (1.0000000000000021e-05)
+     | > loss: -0.7559477090835571  (-0.7374108467783248)
+     | > log_mle: -0.9166934490203857  (-0.9066751657213483)
+     | > loss_dur: 0.1607457399368286  (0.16926432034799035)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.6512, device='cuda:0')  (tensor(0.6507, device='cuda:0'))
+     | > step_time: 0.2178  (0.24982536860874716)
+     | > loader_time: 0.0648  (0.06421003954751149)
+
+
+[1m > EVALUATION [0m
+
+
+  [1m--> EVAL PERFORMANCE[0m
+     | > avg_loader_time:[91m 0.04577707757755202 [0m(+0.000933291960735716)
+     | > avg_loss:[92m -0.7914557797568185 [0m(-0.0017730313904432693)
+     | > avg_log_mle:[92m -0.9357084571098795 [0m(-0.0013953544655624928)
+     | > avg_loss_dur:[92m 0.14425267826537697 [0m(-0.000377675860511989)
+
+ > BEST MODEL : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expA/expA-October-28-2026_12+42PM-0000000/best_model_1200.pth
+ > Training Environment:
+ | > Backend: Torch
+ | > Mixed precision: True
+ | > Precision: fp16
+ | > Current device: 0
+ | > Num. of GPUs: 1
+ | > Num. of CPUs: 2
+ | > Num. of Torch Threads: 1
+ | > Torch seed: 42
+ | > Torch CUDNN: True
+ | > Torch CUDNN deterministic: True
+ | > Torch CUDNN benchmark: False
+ | > Torch TF32 MatMul: False
+ > Start Tensorboard: tensorboard --logdir=/content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000
+
+ > Model has 28609873 parameters
+
+[4m[1m > EPOCH: 0/2[0m
+ --> /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000
+
+[1m > TRAINING (2026-10-28 12:52:41) [0m
+
+[1m   --> TIME: 2026-10-28 12:52:42 -- STEP: 0/399 -- GLOBAL_STEP: 0[0m
+     | > current_lr: 5e-05  (5e-05)
+     | > loss: -0.7679283022880554  (-0.7679283022880554)
+     | > log_mle: -0.9133630990982056  (-0.9133630990982056)
+     | > loss_dur: 0.14543481171131134  (0.14543481171131134)
+     | > amp_scaler: 65536.0  (65536.0)
+     | > grad_norm: tensor(0.5822, device='cuda:0')  (tensor(0.5822, device='cuda:0'))
+     | > step_time: 0.2694  (0.26939845085144043)
+     | > loader_time: 0.054  (0.053955078125)
+
+
+[1m   --> TIME: 2026-10-28 12:53:10 -- STEP: 50/399 -- GLOBAL_STEP: 50[0m
+     | > current_lr: 5e-05  (5e-05)
+     | > loss: -0.7503562569618225  (-0.7261986875534058)
+     | > log_mle: -0.911408543586731  (-0.9033003997802734)
+     | > loss_dur: 0.16105227172374725  (0.177101708650589)
+     | > amp_scaler: 16384.0  (21626.88)
+     | > grad_norm: tensor(0.6261, device='cuda:0')  (tensor(0.6877, device='cuda:0'))
+     | > step_time: 0.2351  (0.2546775197982788)
+     | > loader_time: 0.057  (0.06646260261535647)
+
+
+[1m   --> TIME: 2026-10-28 12:53:25 -- STEP: 100/399 -- GLOBAL_STEP: 100[0m
+     | > current_lr: 5e-05  (4.999999999999998e-05)
+     | > loss: -0.713253378868103  (-0.7283012169599536)
+     | > log_mle: -0.9089373350143433  (-0.9030731308460236)
+     | > loss_dur: 0.19568394124507904  (0.17477191336452966)
+     | > amp_scaler: 16384.0  (19005.440000000002)
+     | > grad_norm: tensor(0.9845, device='cuda:0')  (tensor(0.6999, device='cuda:0'))
+     | > step_time: 0.2231  (0.2457946848869323)
+     | > loader_time: 0.0484  (0.06342143774032595)
+
+
+[1m   --> TIME: 2026-10-28 12:53:40 -- STEP: 150/399 -- GLOBAL_STEP: 150[0m
+     | > current_lr: 5e-05  (4.9999999999999874e-05)
+     | > loss: -0.7191778421401978  (-0.7297565698623658)
+     | > log_mle: -0.9168092012405396  (-0.9024166282018026)
+     | > loss_dur: 0.1976313591003418  (0.1726600580910842)
+     | > amp_scaler: 16384.0  (18131.626666666674)
+     | > grad_norm: tensor(0.6059, device='cuda:0')  (tensor(0.7224, device='cuda:0'))
+     | > step_time: 0.2229  (0.24048868020375566)
+     | > loader_time: 0.0567  (0.061403695742289224)
+
+
+[1m   --> TIME: 2026-10-28 12:53:54 -- STEP: 200/399 -- GLOBAL_STEP: 200[0m
+     | > current_lr: 5e-05  (4.999999999999981e-05)
+     | > loss: -0.6728717684745789  (-0.7292994317412378)
+     | > log_mle: -0.8739989995956421  (-0.9017866832017899)
+     | > loss_dur: 0.20112724602222443  (0.17248725164681672)
+     | > amp_scaler: 16384.0  (17694.720000000005)
+     | > grad_norm: tensor(0.6479, device='cuda:0')  (tensor(0.7168, device='cuda:0'))
+     | > step_time: 0.2324  (0.23803669333457944)
+     | > loader_time: 0.0688  (0.06156900405883789)
+
+
+ > CHECKPOINT : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/checkpoint_200.pth
+
+[1m   --> TIME: 2026-10-28 12:54:18 -- STEP: 250/399 -- GLOBAL_STEP: 250[0m
+     | > current_lr: 5e-05  (4.9999999999999786e-05)
+     | > loss: -0.7499129772186279  (-0.7281444604396822)
+     | > log_mle: -0.900985836982727  (-0.901157612323761)
+     | > loss_dur: 0.15107287466526031  (0.17301315245032312)
+     | > amp_scaler: 16384.0  (17432.57600000001)
+     | > grad_norm: tensor(0.7706, device='cuda:0')  (tensor(0.7112, device='cuda:0'))
+     | > step_time: 0.2245  (0.24344451522827146)
+     | > loader_time: 0.0636  (0.06301130867004394)
+
+
+[1m   --> TIME: 2026-10-28 12:54:33 -- STEP: 300/399 -- GLOBAL_STEP: 300[0m
+     | > current_lr: 5e-05  (4.9999999999999786e-05)
+     | > loss: -0.7643412947654724  (-0.728464773495992)
+     | > log_mle: -0.8891574144363403  (-0.9014288810888926)
+     | > loss_dur: 0.12481613457202911  (0.17296410915752258)
+     | > amp_scaler: 16384.0  (17257.813333333335)
+     | > grad_norm: tensor(0.6691, device='cuda:0')  (tensor(0.7093, device='cuda:0'))
+     | > step_time: 0.2143  (0.24230479717254638)
+     | > loader_time: 0.0469  (0.06260395844777422)
+
+
+[1m   --> TIME: 2026-10-28 12:54:48 -- STEP: 350/399 -- GLOBAL_STEP: 350[0m
+     | > current_lr: 5e-05  (4.999999999999996e-05)
+     | > loss: -0.7826878428459167  (-0.7299530592986513)
+     | > log_mle: -0.9311599731445312  (-0.9017154056685311)
+     | > loss_dur: 0.1484721302986145  (0.17176234796643264)
+     | > amp_scaler: 16384.0  (17132.982857142877)
+     | > grad_norm: tensor(0.6551, device='cuda:0')  (tensor(0.7091, device='cuda:0'))
+     | > step_time: 0.231  (0.24257913998195102)
+     | > loader_time: 0.0576  (0.061955560275486495)
+
+
+[1m > EVALUATION [0m
+
+
+  [1m--> EVAL PERFORMANCE[0m
+     | > avg_loader_time: 0.047261656547079284 [0m(+0.0)
+     | > avg_loss: -0.7879900628206681 [0m(+0.0)
+     | > avg_log_mle: -0.9316384257102499 [0m(+0.0)
+     | > avg_loss_dur: 0.1436483584800545 [0m(+0.0)
+
+ > BEST MODEL : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/best_model_400.pth
+
+[4m[1m > EPOCH: 1/2[0m
+ --> /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000
+
+[1m > TRAINING (2026-10-28 12:55:21) [0m
+
+[1m   --> TIME: 2026-10-28 12:55:21 -- STEP: 0/399 -- GLOBAL_STEP: 400[0m
+     | > current_lr: 5e-05  (5e-05)
+     | > loss: -0.7615302801132202  (-0.7615302801132202)
+     | > log_mle: -0.9295163154602051  (-0.9295163154602051)
+     | > loss_dur: 0.16798606514930725  (0.16798606514930725)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.6682, device='cuda:0')  (tensor(0.6682, device='cuda:0'))
+     | > step_time: 0.2448  (0.24479317665100098)
+     | > loader_time: 0.0712  (0.07117652893066406)
+
+
+ > CHECKPOINT : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/checkpoint_400.pth
+
+[1m   --> TIME: 2026-10-28 12:55:47 -- STEP: 50/399 -- GLOBAL_STEP: 450[0m
+     | > current_lr: 5e-05  (5e-05)
+     | > loss: -0.7579112648963928  (-0.7385318613052368)
+     | > log_mle: -0.9173825979232788  (-0.9028145265579224)
+     | > loss_dur: 0.1594713181257248  (0.1642826656997204)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.9472, device='cuda:0')  (tensor(0.7341, device='cuda:0'))
+     | > step_time: 0.2442  (0.26157863140106197)
+     | > loader_time: 0.0569  (0.06814698696136473)
+
+
+[1m   --> TIME: 2026-10-28 12:56:02 -- STEP: 100/399 -- GLOBAL_STEP: 500[0m
+     | > current_lr: 5e-05  (4.999999999999998e-05)
+     | > loss: -0.695655107498169  (-0.7410663050413129)
+     | > log_mle: -0.8884822130203247  (-0.9039339554309845)
+     | > loss_dur: 0.19282710552215576  (0.1628676511347294)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.6084, device='cuda:0')  (tensor(0.7243, device='cuda:0'))
+     | > step_time: 0.2166  (0.24941148757934567)
+     | > loader_time: 0.0604  (0.06316239833831788)
+
+
+[1m   --> TIME: 2026-10-28 12:56:17 -- STEP: 150/399 -- GLOBAL_STEP: 550[0m
+     | > current_lr: 5e-05  (4.9999999999999874e-05)
+     | > loss: -0.7707374095916748  (-0.7420744208494819)
+     | > log_mle: -0.906584620475769  (-0.903939135869344)
+     | > loss_dur: 0.13584718108177185  (0.16186471432447433)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.6131, device='cuda:0')  (tensor(0.7293, device='cuda:0'))
+     | > step_time: 0.2338  (0.24371784687042236)
+     | > loader_time: 0.0779  (0.06194928487141929)
+
+
+[1m   --> TIME: 2026-10-28 12:56:31 -- STEP: 200/399 -- GLOBAL_STEP: 600[0m
+     | > current_lr: 5e-05  (4.999999999999981e-05)
+     | > loss: -0.6802502870559692  (-0.7425990188121796)
+     | > log_mle: -0.8869049549102783  (-0.904339799284935)
+     | > loss_dur: 0.20665469765663147  (0.16174077976495022)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.7131, device='cuda:0')  (tensor(0.7237, device='cuda:0'))
+     | > step_time: 0.2224  (0.24049115300178528)
+     | > loader_time: 0.0606  (0.060688790082931536)
+
+
+ > CHECKPOINT : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/checkpoint_600.pth
+
+[1m   --> TIME: 2026-10-28 12:56:54 -- STEP: 250/399 -- GLOBAL_STEP: 650[0m
+     | > current_lr: 5e-05  (4.9999999999999786e-05)
+     | > loss: -0.7001471519470215  (-0.7432216331958771)
+     | > log_mle: -0.8754351139068604  (-0.9055159845352173)
+     | > loss_dur: 0.17528799176216125  (0.16229435151815408)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.6681, device='cuda:0')  (tensor(0.7236, device='cuda:0'))
+     | > step_time: 0.2244  (0.24443907928466796)
+     | > loader_time: 0.0594  (0.06175736618041994)
+
+
+[1m   --> TIME: 2026-10-28 12:57:09 -- STEP: 300/399 -- GLOBAL_STEP: 700[0m
+     | > current_lr: 5e-05  (4.9999999999999786e-05)
+     | > loss: -0.7651543021202087  (-0.7431575099627178)
+     | > log_mle: -0.9364584684371948  (-0.9058081408341726)
+     | > loss_dur: 0.1713041514158249  (0.16265063092112542)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.6469, device='cuda:0')  (tensor(0.7236, device='cuda:0'))
+     | > step_time: 0.2322  (0.24276570399602254)
+     | > loader_time: 0.0656  (0.060883111953735365)
+
+
+[1m   --> TIME: 2026-10-28 12:57:23 -- STEP: 350/399 -- GLOBAL_STEP: 750[0m
+     | > current_lr: 5e-05  (4.999999999999996e-05)
+     | > loss: -0.7522820234298706  (-0.742299953699112)
+     | > log_mle: -0.9276160001754761  (-0.9052775958606175)
+     | > loss_dur: 0.17533399164676666  (0.16297764194863182)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.8515, device='cuda:0')  (tensor(0.7276, device='cuda:0'))
+     | > step_time: 0.2263  (0.24056209359850203)
+     | > loader_time: 0.0592  (0.06072707516806467)
+
+
+[1m > EVALUATION [0m
+
+
+  [1m--> EVAL PERFORMANCE[0m
+     | > avg_loader_time:[92m 0.045501835492192486 [0m(-0.0017598210548867982)
+     | > avg_loss:[92m -0.7919972697082831 [0m(-0.004007206887615022)
+     | > avg_log_mle:[92m -0.9317951688961107 [0m(-0.00015674318586078595)
+     | > avg_loss_dur:[92m 0.13979790010014356 [0m(-0.003850458379910937)
+
+ > BEST MODEL : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/best_model_800.pth
+
+[4m[1m > EPOCH: 2/2[0m
+ --> /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000
+
+[1m > TRAINING (2026-10-28 12:57:57) [0m
+
+[1m   --> TIME: 2026-10-28 12:57:57 -- STEP: 0/399 -- GLOBAL_STEP: 800[0m
+     | > current_lr: 5e-05  (5e-05)
+     | > loss: -0.7346318364143372  (-0.7346318364143372)
+     | > log_mle: -0.903836727142334  (-0.903836727142334)
+     | > loss_dur: 0.16920487582683563  (0.16920487582683563)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.7933, device='cuda:0')  (tensor(0.7933, device='cuda:0'))
+     | > step_time: 0.2438  (0.24382853507995605)
+     | > loader_time: 0.055  (0.05498623847961426)
+
+
+ > CHECKPOINT : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/checkpoint_800.pth
+
+[1m   --> TIME: 2026-10-28 12:58:26 -- STEP: 50/399 -- GLOBAL_STEP: 850[0m
+     | > current_lr: 5e-05  (5e-05)
+     | > loss: -0.7847352623939514  (-0.747734421491623)
+     | > log_mle: -0.9296678304672241  (-0.9065931820869446)
+     | > loss_dur: 0.1449325531721115  (0.15885876029729845)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.8243, device='cuda:0')  (tensor(0.7102, device='cuda:0'))
+     | > step_time: 0.3209  (0.3018105363845824)
+     | > loader_time: 0.0708  (0.09002106666564941)
+
+
+[1m   --> TIME: 2026-10-28 12:58:43 -- STEP: 100/399 -- GLOBAL_STEP: 900[0m
+     | > current_lr: 5e-05  (4.999999999999998e-05)
+     | > loss: -0.7285356521606445  (-0.7511196130514146)
+     | > log_mle: -0.9064884185791016  (-0.9084682738780976)
+     | > loss_dur: 0.17795273661613464  (0.15734866105020043)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.8346, device='cuda:0')  (tensor(0.7039, device='cuda:0'))
+     | > step_time: 0.2152  (0.2782367372512817)
+     | > loader_time: 0.0529  (0.08177025556564335)
+
+
+[1m   --> TIME: 2026-10-28 12:58:57 -- STEP: 150/399 -- GLOBAL_STEP: 950[0m
+     | > current_lr: 5e-05  (4.9999999999999874e-05)
+     | > loss: -0.730739414691925  (-0.750192816654841)
+     | > log_mle: -0.904091477394104  (-0.9073313498497009)
+     | > loss_dur: 0.17335206270217896  (0.15713853374123565)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.5156, device='cuda:0')  (tensor(0.7040, device='cuda:0'))
+     | > step_time: 0.252  (0.2631556336085001)
+     | > loader_time: 0.0662  (0.07477596282958987)
+
+
+[1m   --> TIME: 2026-10-28 12:59:12 -- STEP: 200/399 -- GLOBAL_STEP: 1000[0m
+     | > current_lr: 5e-05  (4.999999999999981e-05)
+     | > loss: -0.7375217080116272  (-0.7503585171699525)
+     | > log_mle: -0.900127649307251  (-0.9073467832803727)
+     | > loss_dur: 0.16260592639446259  (0.15698826692998408)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.6920, device='cuda:0')  (tensor(0.7250, device='cuda:0'))
+     | > step_time: 0.2258  (0.25492449045181287)
+     | > loader_time: 0.0875  (0.07070346474647525)
+
+
+ > CHECKPOINT : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/checkpoint_1000.pth
+
+[1m   --> TIME: 2026-10-28 12:59:35 -- STEP: 250/399 -- GLOBAL_STEP: 1050[0m
+     | > current_lr: 5e-05  (4.9999999999999786e-05)
+     | > loss: -0.6950200796127319  (-0.7482843971252443)
+     | > log_mle: -0.8663787841796875  (-0.9071331429481506)
+     | > loss_dur: 0.17135868966579437  (0.15884874615073205)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.7059, device='cuda:0')  (tensor(0.7187, device='cuda:0'))
+     | > step_time: 0.2409  (0.2546046133041381)
+     | > loader_time: 0.0743  (0.06955660057067874)
+
+
+[1m   --> TIME: 2026-10-28 12:59:49 -- STEP: 300/399 -- GLOBAL_STEP: 1100[0m
+     | > current_lr: 5e-05  (4.9999999999999786e-05)
+     | > loss: -0.7743508219718933  (-0.7497111185391747)
+     | > log_mle: -0.9186352491378784  (-0.9072557202974951)
+     | > loss_dur: 0.1442844271659851  (0.1575446014602979)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.7672, device='cuda:0')  (tensor(0.7151, device='cuda:0'))
+     | > step_time: 0.2272  (0.25016743421554566)
+     | > loader_time: 0.058  (0.0676568190256755)
+
+
+[1m   --> TIME: 2026-10-28 13:00:04 -- STEP: 350/399 -- GLOBAL_STEP: 1150[0m
+     | > current_lr: 5e-05  (4.999999999999996e-05)
+     | > loss: -0.7444521188735962  (-0.7504227808543615)
+     | > log_mle: -0.9072345495223999  (-0.9075218541281561)
+     | > loss_dur: 0.1627824604511261  (0.15709907318864555)
+     | > amp_scaler: 16384.0  (16384.0)
+     | > grad_norm: tensor(0.6688, device='cuda:0')  (tensor(0.7114, device='cuda:0'))
+     | > step_time: 0.2288  (0.24752358777182443)
+     | > loader_time: 0.0647  (0.06607303210667209)
+
+
+[1m > EVALUATION [0m
+
+
+  [1m--> EVAL PERFORMANCE[0m
+     | > avg_loader_time:[92m 0.04510618715870137 [0m(-0.0003956483334911151)
+     | > avg_loss:[92m -0.7948176787824047 [0m(-0.0028204090741216215)
+     | > avg_log_mle:[92m -0.9318429718212206 [0m(-4.780292510986328e-05)
+     | > avg_loss_dur:[92m 0.13702529364702654 [0m(-0.002772606453117027)
+
+ > BEST MODEL : /content/drive/MyDrive/Group3_A3/runs/glowtts_7f100a4d1220/expB/expB-October-28-2026_12+52PM-0000000/best_model_1200.pth
